@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: limegreen;
+    text-align: center;
+    margin-top: 40px;
+}
